@@ -1,0 +1,21 @@
+{
+  "name": "jlwestsr.github.io",
+  "version": "1.0.0",
+  "homepage": "https://github.com/jlwestsr/jlwestsr.github.io",
+  "authors": [
+    "Jason L West Sr <me@jlwestsr.com>"
+  ],
+  "description": "Layout for JLWestSr Tech Blog",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.4"
+  }
+}

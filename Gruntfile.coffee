@@ -8,4 +8,4 @@ module.exports = (grunt) ->
       jekyllBuild:
         command: 'jekyll build'
       jekyllServer:
-        command: 'jekyll serve'
+        command: 'jekyll serve --host $IP --port $PORT --baseurl ""'

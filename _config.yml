@@ -1,16 +1,25 @@
 # Site settings
 title: Jason's Tech Blog
-email: me@jlwestsr.com
-
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
+tagline: Site Tagline
 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jlwestsr.com" # the base hostname & protocol for your site
+
+author:
+  name: Jason L West Sr
+  email: me@jlwestsr.com
+  github: jlwestsr
+  twitter: jlwestsr
+  linkedin: jlwestsr
+  feedburner: jlwestsr
+  
 twitter_username: jlwestsr
 github_username:  jlwestsr
+email: me@jlwestsr.com
 
 # Build settings
 markdown: kramdown

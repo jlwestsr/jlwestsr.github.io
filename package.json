@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/jlwestsr/jlwestsr.github.io/issues"
   },
-  "homepage": "https://github.com/jlwestsr/jlwestsr.github.io#readme"
+  "homepage": "https://github.com/jlwestsr/jlwestsr.github.io#readme",
+  "devDependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "bower": "^1.8.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-uglify": "^2.0.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-exec": "^1.0.1",
+    "gulp": "^3.9.1",
+    "gulp-bower": "0.0.13",
+    "gulp-notify": "^2.2.0",
+    "gulp-ruby-sass": "^2.1.1"
+  }
 }

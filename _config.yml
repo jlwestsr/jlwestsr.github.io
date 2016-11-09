@@ -1,0 +1,20 @@
+title: JWestSr Tech Blog
+description: > # this means to ignore newlines until "baseurl:"
+  Tech Blog
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://jlwestsr.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
+author: Jason L. West Sr.
+email: jlwestsr@gmail.com
+twitter_username: jlwestsr
+github_username:  jlwestsr
+linkedin_username: jlwestsr
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-feed
+exclude:
+  - Gemfile
+  - Gemfile.lock

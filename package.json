@@ -1,0 +1,19 @@
+{
+  "name": "jlwestsr.github.io",
+  "version": "1.0.0",
+  "description": "My tech blog",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlwestsr/jlwestsr.github.io.git"
+  },
+  "author": "Jason L. West \"jlwestsr@gmail.com\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jlwestsr/jlwestsr.github.io/issues"
+  },
+  "homepage": "https://github.com/jlwestsr/jlwestsr.github.io#readme"
+}

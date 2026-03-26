@@ -12,3 +12,6 @@ Gemfile.lock
 !.gitkeep
 .rbenv-version
 .rvmrc
+vendor/
+_site/
+.bundle/
